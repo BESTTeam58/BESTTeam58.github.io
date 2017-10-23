@@ -9,6 +9,6 @@ Allen Eagles CoCo Best Team 58 GitHub Website
 
 ### Social Media
 ---
-![Facebook FRC Team 5417](src/img/facebook.png "Facebook FRC Team 5417" href="https://www.facebook.com/FRCTeam5417")
+[![Facebook FRC Team 5417](src/img/facebook.png "Facebook FRC Team 5417")]("https://www.facebook.com/FRCTeam5417")
 
 ---
