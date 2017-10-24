@@ -13,5 +13,5 @@ Allen Eagles CoCo Best Team 58 GitHub Website
 [![Eagle Robotics @BESTteam58](src/img/twitter.png "Eagle Robotics @BESTteam58")](twitter)
 [![BESTteam58 @ GitHub.com](src/img/github.png "GitHub : @BESTteam58")](github-redirect)
 [![BESTteam58 on Twitch.com](src/img/twitch.png "Twitch : @BESTteam58")](twitch)
-
+[![Eagle Robotics on #slack](src/img/slack.png "#slack : Eagle.Robotics.slack")](slack) 
 ---
